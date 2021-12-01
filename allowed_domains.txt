@@ -1,1 +1,11 @@
+# Domain allow list for the Axolotl Discord Bot
+# https://discord.hypera.dev/
+
+# Hypera domains
 hypera.dev
+
+# Common domains
+google.com
+
+# Personal domains
+bgbuddyboy.tech
