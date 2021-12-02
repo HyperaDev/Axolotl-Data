@@ -1,6 +1,15 @@
 # Domain allow list for the Axolotl Discord Bot
 # https://discord.hypera.dev/
 
+# Discord domains
+discord.com
+discord.gg
+discord.gift
+discord.media
+discordapp.com
+discordapp.net
+discordstatus.com
+
 # Hypera domains
 hypera.dev
 
@@ -14,8 +23,10 @@ android.com
 apache.org
 apple.com
 archlinux.org
+askubuntu.com
 bing.com
 bitbucket.org
+blogoverflow.com
 bukkit.org
 craftingstore.net
 curseforge.com
@@ -33,17 +44,16 @@ google.com
 gyazo.com
 hastebin.com
 hypixel.net
-images-ext-2.discordapp.net
 imgur.com
 instagram.com
 jetbrains.com
 lucko.me
 lunarclient.com
+mathoverflow.net
 mc-market.org
 mclo.gs
 mcpaste.com
 mcpaste.io
-media.discordapp.net
 minecraft.fandom.com
 namemc.com
 noelshack.com
@@ -63,12 +73,23 @@ pterodactyl.io
 reddit.com
 samsung.com
 search.gladly.io
+serverfault.com
 spigotmc.org
 spotify.com
+stackapps.com
+stackexchange.com
+stackmod.blog
+stackoverflow.blog
 stackoverflow.com
+stackoverflowbusiness.com
+stackoverflowsolutions.com
+superuser.com
 tebex.io
 tenor.com
+tex-talk.net
+thesffblog.com
 tiktok.com
+toptal.com
 trello.com
 twitch.tv
 twitter.com
@@ -76,10 +97,10 @@ vimeo.com
 w3schools.com
 wikipedia.org
 windows.com
-www.toptal.com
 yahoo.com
 youtu.be
 yt.be
 
 # Personal domains
 bgbuddyboy.tech
+joshualovescode.dev
