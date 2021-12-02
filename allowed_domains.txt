@@ -1,11 +1,106 @@
 # Domain allow list for the Axolotl Discord Bot
 # https://discord.hypera.dev/
 
+# Discord domains
+discord.com
+discord.gg
+discord.gift
+discord.media
+discordapp.com
+discordapp.net
+discordstatus.com
+
 # Hypera domains
 hypera.dev
 
 # Common domains
+adobe.com
+adoptium.net
+adoptopenjdk.net
+aikar.co
+amazon.com
+android.com
+apache.org
+apple.com
+archlinux.org
+askubuntu.com
+bing.com
+bitbucket.org
+blogoverflow.com
+bukkit.org
+craftingstore.net
+curseforge.com
+dailymotion.com
+dell.com
+discord.js.org
+duckduckgo.com
+facebook.com
+gentoo.org
+github.com
+github.io
+gitlab.com
+gmail.com
 google.com
+gyazo.com
+hastebin.com
+hypixel.net
+imgur.com
+instagram.com
+jetbrains.com
+lucko.me
+lunarclient.com
+mathoverflow.net
+mc-market.org
+mclo.gs
+mcpaste.com
+mcpaste.io
+minecraft.fandom.com
+namemc.com
+noelshack.com
+npmjs.com
+office.com
+paste.gg
+paste.helpch.at
+paste.md-5.net
+paste.ubuntu.com
+pastebin.com
+patreon.com
+pl3x.net
+plancke.io
+polymart.org
+prnt.sc
+pterodactyl.io
+reddit.com
+samsung.com
+gladly.io
+serverfault.com
+spigotmc.org
+spotify.com
+stackapps.com
+stackexchange.com
+stackmod.blog
+stackoverflow.blog
+stackoverflow.com
+stackoverflowbusiness.com
+stackoverflowsolutions.com
+superuser.com
+tebex.io
+tenor.com
+tex-talk.net
+thesffblog.com
+tiktok.com
+toptal.com
+trello.com
+twitch.tv
+twitter.com
+vimeo.com
+w3schools.com
+wikipedia.org
+windows.com
+yahoo.com
+youtu.be
+yt.be
 
 # Personal domains
 bgbuddyboy.tech
+joshualovescode.dev
