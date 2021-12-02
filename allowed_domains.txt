@@ -72,7 +72,7 @@ prnt.sc
 pterodactyl.io
 reddit.com
 samsung.com
-search.gladly.io
+gladly.io
 serverfault.com
 spigotmc.org
 spotify.com
