@@ -1,3 +1,7 @@
+# Top level domain list for the Axolotl Discord Bot
+# This doesn't include all TLDs, this is to avoid false positives with the domain filter.
+# https://discord.hypera.dev/
+
 ACADEMY
 ACCOUNTANT
 ACCOUNTANTS
