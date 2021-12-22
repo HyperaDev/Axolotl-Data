@@ -32,12 +32,15 @@ bose.com.au
 bukkit.org
 canonical.com
 cloudflare.com
+cloudflarestatus.com
 craftingstore.net
 curseforge.com
 cvs.com
 dailymotion.com
 dell.com
 discord.js.org
+downdetector.com
+downdetector.com.au
 duckduckgo.com
 ebay.com
 ebay.com.au
@@ -181,3 +184,8 @@ namecheap.com
 bgbuddyboy.tech
 joshualovescode.dev
 sllcoding.dev
+
+# Long domain names
+ee.eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.ee
+llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.international
+theofficialabsolutelongestdomainnameregisteredontheworldwideweb.international
