@@ -122,6 +122,7 @@ w3schools.com
 wikipedia.org
 yahoo.com
 youtu.be
+youtube.com
 yt.be
 
 # Programming languages
