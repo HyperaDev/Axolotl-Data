@@ -183,6 +183,7 @@ namecheap.com
 
 # Personal domains
 bgbuddyboy.tech
+isthicc.dev
 joshualovescode.dev
 sllcoding.dev
 
