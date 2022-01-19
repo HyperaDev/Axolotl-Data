@@ -19,6 +19,7 @@ adoptium.net
 adoptopenjdk.net
 aikar.co
 amazon.com
+amazon.com.au
 android.com
 apache.org
 apple.com
@@ -73,9 +74,11 @@ mc-market.org
 mclo.gs
 mcpaste.com
 mcpaste.io
+microsoft.com
 minecraft.fandom.com
 mozilla.org
 namemc.com
+netflix.com
 noelshack.com
 npmjs.com
 office.com
@@ -165,6 +168,42 @@ openssl.org
 
 # Conferences
 linux.conf.au
+
+# News
+9to5mac.com
+abc.net.au
+abcnews.go.com
+aljazeera.com
+bbc.co.uk
+bbc.com
+bleacherreport.com
+buzzfeednews.com
+cnbc.com
+cnet.com
+cnn.com
+dailymail.co.uk
+digitaltrends.com
+engadget.com
+forbes.com
+foxnews.com
+mashable.com
+medium.com
+nbcnews.com
+news.com
+news.com.au
+nypost.com
+nytimes.com
+techcrunch.com
+theatlantic.com
+thecipherbrief.com
+theguardian.co.uk
+theguardian.com
+theguardian.com.au
+thenextweb.com
+theverge.com
+washingtonpost.com
+wsj.com
+zdnet.com
 
 # Hosting companies
 contabo.com
