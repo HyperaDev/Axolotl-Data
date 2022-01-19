@@ -210,17 +210,14 @@ washingtonpost.com
 wsj.com
 zdnet.com
 
-# Houses:D
-# Houses are cool, so they should get their own section.
-# I need to find some non New Zealand house websites.
-# But New Zealand houses are still cool.
+# Houses
 bayleys.co.nz
+domain.com.au
 homes.co.nz
 oneroof.co.nz
 raywhite.co.nz
 realestate.co.nz
-
-
+realestate.com.au
 
 # Hosting companies
 contabo.com
