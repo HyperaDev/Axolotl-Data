@@ -48,6 +48,7 @@ ebay.com.au
 eclipse.org
 eff.org
 facebook.com
+fandom.com
 gentoo.org
 github.com
 gitlab.com
@@ -75,9 +76,9 @@ mclo.gs
 mcpaste.com
 mcpaste.io
 microsoft.com
-minecraft.fandom.com
 mozilla.org
 namemc.com
+neontv.co.nz
 netflix.com
 noelshack.com
 npmjs.com
@@ -93,6 +94,7 @@ pintrest.com
 pl3x.net
 plancke.io
 polymart.org
+primevideo.com
 prnt.sc
 pterodactyl.io
 reddit.com
@@ -183,6 +185,7 @@ cnet.com
 cnn.com
 dailymail.co.uk
 digitaltrends.com
+driven.co.nz
 engadget.com
 forbes.com
 foxnews.com
@@ -193,6 +196,8 @@ news.com
 news.com.au
 nypost.com
 nytimes.com
+nzherald.co.nz
+stuff.co.nz
 techcrunch.com
 theatlantic.com
 thecipherbrief.com
@@ -205,12 +210,22 @@ washingtonpost.com
 wsj.com
 zdnet.com
 
+# Houses
+bayleys.co.nz
+domain.com.au
+homes.co.nz
+oneroof.co.nz
+raywhite.co.nz
+realestate.co.nz
+realestate.com.au
+
 # Hosting companies
 contabo.com
 floofyhosting.com
 heroku.com
 hetzner.com
 linode.com
+ovhcloud.com
 vultr.com
 
 # Domain registries 
