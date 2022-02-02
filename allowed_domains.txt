@@ -75,6 +75,7 @@ mc-market.org
 mclo.gs
 mcpaste.com
 mcpaste.io
+medal.tv
 microsoft.com
 mozilla.org
 namemc.com
