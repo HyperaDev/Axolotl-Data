@@ -32,6 +32,7 @@ bose.com
 bose.com.au
 bukkit.org
 canonical.com
+cfx.re
 cloudflare.com
 cloudflarestatus.com
 craftingstore.net
@@ -49,6 +50,7 @@ eclipse.org
 eff.org
 facebook.com
 fandom.com
+fivem.net
 gentoo.org
 github.com
 gitlab.com
