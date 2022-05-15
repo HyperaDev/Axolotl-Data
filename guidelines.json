@@ -6,7 +6,7 @@
       "articles": [
         {
           "text": "Swearing is allowed in moderation, using it excessively or with intent to hurt another member is prohibited.",
-          "reason": "Excessive swearing or swearing with intent ",
+          "reason": "Excessive swearing",
           "punishments": [
             {
               "type": "WARNING",
