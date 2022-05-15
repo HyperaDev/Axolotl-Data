@@ -1,0 +1,548 @@
+{
+  "sections": [
+    {
+      "name": "Text and Voice",
+      "description": "These apply to text and voice chats throughout the server.",
+      "articles": [
+        {
+          "text": "Swearing is allowed in moderation, using it excessively or with intent to hurt another member is prohibited.",
+          "reason": "Excessive swearing or swearing with intent ",
+          "punishments": [
+            {
+              "type": "WARNING",
+              "unit": null,
+              "length": 0
+            },
+            {
+              "type": "TIMEOUT",
+              "unit": "HOURS",
+              "length": 1
+            },
+            {
+              "type": "TIMEOUT",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": "DAYS",
+              "length": 7
+            }
+          ]
+        },
+        {
+          "text": "Discussing anything related to politics is prohibited to avoid arguments. If you wish to discuss politics with someone, please use direct messages.",
+          "reason": "Political discussions",
+          "punishments": [
+            {
+              "type": "WARNING",
+              "unit": null,
+              "length": 0
+            },
+            {
+              "type": "TIMEOUT",
+              "unit": "HOURS",
+              "length": 1
+            },
+            {
+              "type": "BAN",
+              "unit": "DAYS",
+              "length": 7
+            },
+          ]
+        },
+        {
+          "text": "NSFW is strictly prohibited.",
+          "reason": "NSFW",
+          "punishments": [
+            {
+              "type": "TIMEOUT",
+              "unit": "HOURS",
+              "length": 1
+            },
+            {
+              "type": "TIMEOUT",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        },
+        {
+          "text": "Repeating a similar message 5 or more times will be classed as spam and is prohibited.",
+          "reason": "Spam",
+          "punishments": [
+            {
+              "type": "TIMEOUT",
+              "unit": "HOURS",
+              "length": 1
+            },
+            {
+              "type": "TIMEOUT",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        },
+        {
+          "text": "Sending extremely long messages with intent to fill the chat is prohibited.",
+          "reason": "Flooding",
+          "punishments": [
+            {
+              "type": "TIMEOUT",
+              "unit": "HOURS",
+              "length": 1
+            },
+            {
+              "type": "TIMEOUT",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        },
+        {
+          "text": "Hate speech, of any kind, is strictly prohibited.",
+          "reason": "Hate speech",
+          "punishments": [
+            {
+              "type": "TIMEOUT",
+              "unit": "HOURS",
+              "length": 1
+            },
+            {
+              "type": "TIMEOUT",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        },
+        {
+          "text": "Making jokes about suicide or death is strictly prohibited.",
+          "reason": "Suicide or death jokes",
+          "punishments": [
+            {
+              "type": "TIMEOUT",
+              "unit": "HOURS",
+              "length": 1
+            },
+            {
+              "type": "TIMEOUT",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        },
+        {
+          "text": "Messages sent with malicious or harmful intent is strictly prohibited.",
+          "reason": "Malicious or harmful messages",
+          "punishments": [
+            {
+              "type": "TIMEOUT",
+              "unit": "HOURS",
+              "length": 2
+            },
+            {
+              "type": "TIMEOUT",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        },
+        {
+          "text": "Trolling is strictly prohibited.",
+          "reason": "Trolling",
+          "punishments": [
+            {
+              "type": "BAN",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Advertising",
+      "description": null,
+      "articles": [
+        {
+          "text": "Advertising anywhere other than your About Me or custom status is prohibited.",
+          "reason": "Advertising",
+          "punishments": [
+            {
+              "type": "TIMEOUT",
+              "unit": "HOURS",
+              "length": 1
+            },
+            {
+              "type": "TIMEOUT",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        },
+        {
+          "text": "DM Advertising is strictly prohibited.\nIf a member of a Hypera Discord server directly sends you an advertisement, please create a ticket to report them.",
+          "reason": "DM Advertising",
+          "punishments": [
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        },
+        {
+          "text": "Advertising malicious, harmful, or NSFW content is strictly prohibited.",
+          "reason": "Advertising malicious content",
+          "punishments": [
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mentions",
+      "description": null,
+      "articles": [
+        {
+          "text": "Mentioning a member then deleting your message is prohibited.",
+          "reason": "Ghost mentioning",
+          "punishments": [
+            "WARNING",
+            {
+              "type": "TIMEOUT",
+              "unit": "HOURS",
+              "length": 1
+            },
+            {
+              "type": "TIMEOUT",
+              "unit": "DAYS",
+              "length": 2
+            },
+            {
+              "type": "BAN",
+              "unit": "DAYS",
+              "length": 7
+            }
+          ]
+        },
+        {
+          "text": "Mass mentioning roles or users is strictly prohibited.",
+          "reason": "Mass mentioning",
+          "punishments": [
+            {
+              "type": "BAN",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Staff",
+      "description": "Staff members have the authority to punish members how they see fit.\nIf you believe a staff member is abusing their authority, please open a ticket or send a message to a manager.",
+      "articles": [
+        {
+          "text": "Staff members are permitted to request proof of age if a member is believed to be underage. Failing to cooperate with staff members may result in the assumption of you being underage and will result in a punishment.",
+          "reason": "Believed to be underage",
+          "punishments": [
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        },
+        {
+          "text": "Arguing with staff members is prohibited.",
+          "reason": "Arguing with staff members",
+          "punishments": [
+            {
+              "type": "WARNING",
+              "unit": null,
+              "length": 0
+            },
+            {
+              "type": "TIMEOUT",
+              "unit": "HOURS",
+              "length": 1
+            },
+            {
+              "type": "TIMEOUT",
+              "unit": "DAYS",
+              "length": 2
+            },
+            {
+              "type": "KICK",
+              "unit": null,
+              "length": 0
+            },
+            {
+              "type": "BAN",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        },
+        {
+          "text": "Lying to staff members is prohibited.",
+          "reason": "Lying to staff members",
+          "punishments": [
+            {
+              "type": "WARNING",
+              "unit": null,
+              "length": 0
+            },
+            {
+              "type": "TIMEOUT",
+              "unit": "HOURS",
+              "length": 1
+            },
+            {
+              "type": "TIMEOUT",
+              "unit": "DAYS",
+              "length": 2
+            },
+            {
+              "type": "KICK",
+              "unit": null,
+              "length": 0
+            },
+            {
+              "type": "BAN",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Profiles",
+      "description": null,
+      "articles": [
+        {
+          "text": "Inappropriate usernames and nicknames are strictly prohibited.",
+          "reason": "Inappropriate username or nickname",
+          "punishments": [
+            {
+              "type": "KICK",
+              "unit": null,
+              "length": 0
+            },
+            {
+              "type": "BAN",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        },
+        {
+          "text": "Inappropriate or otherwise NSFW profile pictures are strictly prohibited.",
+          "reason": "Inappropriate profile picture",
+          "punishments": [
+            {
+              "type": "KICK",
+              "unit": null,
+              "length": 0
+            },
+            {
+              "type": "BAN",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Piracy",
+      "description": null,
+      "articles": [
+        {
+          "text": "Using or creating leaked or cracked resources is strictly prohibited.",
+          "reason": "Using or creating leaked or cracked resources",
+          "punishments": [
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        },
+        {
+          "text": "Promoting leaked or cracked resources is strictly prohibited",
+          "reason": "Promoting leaked or cracked resources",
+          "punishments": [
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        },
+        {
+          "text": "Not following our resource's Terms of Service is strictly prohibited.",
+          "reason": "Not following our resource's Terms of Service",
+          "punishments": [
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "description": null,
+      "articles": [
+        {
+          "text": "Asking for staff or other special roles is prohibited.",
+          "reason": "Asking for special roles",
+          "punishments": [
+            {
+              "type": "WARNING",
+              "unit": null,
+              "length": 0
+            },
+            {
+              "type": "KICK",
+              "unit": null,
+              "length": 0
+            },
+            {
+              "type": "BAN",
+              "unit": "DAYS",
+              "length": 7
+            }
+          ]
+        },
+        {
+          "text": "Inviting or using alternative Discord accounts in this server is prohibited and may result in all of your accounts being permanently removed unless permission is granted by a senior staff member.",
+          "reason": "Alternative Accounts",
+          "punishments": [
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        },
+        {
+          "text": "Breaking the Discord [Community Guidelines](https://discord.com/guidelines) or [Terms of Service](https://discord.com/terms) is strictly prohibited and will result in your being reported to Discord.",
+          "reason": "Breaking the Discord Community Guidelines or Terms of service",
+          "punishments": [
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        },
+        {
+          "text": "Sharing another user's Personal Identifiable Information (\"PII\") without express permission from them is strictly prohibited.",
+          "reason": "Sharing Personal Identifiable Information (\"PII\")",
+          "punishments": [
+            {
+              "type": "BAN",
+              "unit": "DAYS",
+              "length": 7
+            },
+            {
+              "type": "BAN",
+              "unit": null,
+              "length": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
