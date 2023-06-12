@@ -101,7 +101,6 @@ polymart.org
 primevideo.com
 prnt.sc
 pterodactyl.io
-reddit.com
 samsung.com
 serverfault.com
 spigotmc.org
