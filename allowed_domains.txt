@@ -66,6 +66,7 @@ ietf.org
 imgur.com
 instagram.com
 jetbrains.com
+ko-fi.com
 letsencrypt.org
 lg.com
 linkedin.com
@@ -87,7 +88,10 @@ netflix.com
 noelshack.com
 npmjs.com
 office.com
+opencollective.com
 oracle.com
+paper-chan.moe
+papermc.io
 paste.gg
 paste.helpch.at
 paste.md-5.net
