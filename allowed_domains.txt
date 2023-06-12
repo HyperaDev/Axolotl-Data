@@ -15,6 +15,9 @@ hypera.dev
 hypera.net
 hyperastatus.com
 
+# Hypera product domains
+ultrastaffchatpro.com
+
 # Common domains
 adobe.com
 adoptium.net
