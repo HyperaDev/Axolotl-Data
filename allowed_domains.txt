@@ -12,6 +12,8 @@ discordstatus.com
 
 # Hypera domains
 hypera.dev
+hypera.net
+hyperastatus.com
 
 # Common domains
 adobe.com
