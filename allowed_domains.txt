@@ -102,9 +102,11 @@ paste.gg
 paste.helpch.at
 paste.md-5.net
 pastebin.com
+pastes.dev
 patreon.com
 paypal.com
 pintrest.com
+pki.goog
 pl3x.net
 plancke.io
 polymart.org
