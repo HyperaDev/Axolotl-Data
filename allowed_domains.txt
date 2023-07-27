@@ -23,6 +23,7 @@ adobe.com
 adoptium.net
 adoptopenjdk.net
 aikar.co
+amazon.co.uk
 amazon.com
 amazon.com.au
 android.com
@@ -40,6 +41,7 @@ canonical.com
 cfx.re
 cloudflare.com
 cloudflarestatus.com
+cmpxchg8b.com
 craftingstore.net
 curseforge.com
 cvs.com
