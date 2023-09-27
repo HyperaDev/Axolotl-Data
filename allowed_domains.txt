@@ -42,6 +42,7 @@ cfx.re
 cloudflare.com
 cloudflarestatus.com
 cmpxchg8b.com
+crafatar.com
 craftingstore.net
 curseforge.com
 cvs.com
