@@ -89,6 +89,7 @@ mcpaste.io
 medal.tv
 microsoft.com
 minecraft.net
+minotar.net
 modrinth.com
 mozilla.org
 namemc.com
